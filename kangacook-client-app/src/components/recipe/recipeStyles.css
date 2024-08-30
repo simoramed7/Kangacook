@@ -1,0 +1,14 @@
+.recipe-item {
+  background: #fff;
+  padding: 15px;
+  border-radius: 4px;
+  margin-bottom: 15px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.recipe-list {
+  max-width: 45vw;
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
